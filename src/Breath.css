@@ -1,0 +1,25 @@
+body {
+    background: rgb(48,75,120);
+    background: linear-gradient(90deg, rgba(48,75,120,1) 0%, rgba(9,14,41,1) 52%);
+}
+
+@keyframes breath {
+    0% { transform: scale(1); }
+    100% { transform: scale(1.5); background-color: antiquewhite;}
+}
+
+  /* The element to apply the animation to */
+div {
+    animation: breath 6s infinite alternate;
+    /* Above line is shorthand for this:
+    animation-name: breath;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate; */
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #56BDA2;
+    animation-delay: 1.5;
+    animation-timing-function: linear;
+}
