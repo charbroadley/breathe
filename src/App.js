@@ -1,9 +1,9 @@
 import './App.css';
-import Breath from './Breath';
+import Breathe from './Breathe';
 
 function App() {
   return (
-    <Breath/>
+    <Breathe/>
   );
 }
 

@@ -1,16 +1,20 @@
 body {
     background: rgb(48,75,120);
     background: linear-gradient(90deg, rgba(48,75,120,1) 0%, rgba(9,14,41,1) 52%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15em;
 }
 
-@keyframes breath {
+@keyframes breathe {
     0% { transform: scale(1); }
     100% { transform: scale(1.5); background-color: antiquewhite;}
 }
 
   /* The element to apply the animation to */
 div {
-    animation: breath 6s infinite alternate;
+    animation: breathe 6s infinite alternate;
     /* Above line is shorthand for this:
     animation-name: breath;
     animation-duration: 4s;
