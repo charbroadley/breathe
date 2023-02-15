@@ -1,7 +1,5 @@
 # Breathe
 
-![The BreakTime dashboard](client/src/images/dashboard.png)
-
 ## The Brief
 
 A personal mini-project undertaken as part of our JavaScript group project ([BreakTime](https://github.com/charbroadley/BreakTime)).
@@ -9,7 +7,7 @@ I wanted to experiment with CSS to create an animation. My animation encourages 
 
 ## How to Use
 
-Breath in time with the animationand zone out for a moment of calm
+Breath in time with the animation and zone out for a moment of calm
 
 ## Getting Started
 
@@ -20,5 +18,6 @@ Breath in time with the animationand zone out for a moment of calm
 `npm start`<br/>
 
 ## Tech Used
+- JavaScript
 - React
 - CSS
