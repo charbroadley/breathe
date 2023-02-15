@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/breathe/static/css/main.c58d67e4.css",
+    "main.js": "/breathe/static/js/main.cbe5dfd7.js",
+    "static/js/787.97cacf44.chunk.js": "/breathe/static/js/787.97cacf44.chunk.js",
+    "index.html": "/breathe/index.html",
+    "main.c58d67e4.css.map": "/breathe/static/css/main.c58d67e4.css.map",
+    "main.cbe5dfd7.js.map": "/breathe/static/js/main.cbe5dfd7.js.map",
+    "787.97cacf44.chunk.js.map": "/breathe/static/js/787.97cacf44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c58d67e4.css",
+    "static/js/main.cbe5dfd7.js"
+  ]
+}
